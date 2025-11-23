@@ -1,0 +1,5 @@
+Policy,Time in Window,Avg. Toxic Events,Analysis
+Expert PPO (Online),100.00% ± 0.00%,0.00 ± 0.00,The Gold Standard. Perfection achieved via risky live experimentation.
+Behavior Cloning,100.00% ± 0.00%,0.00 ± 0.00,"The Robust Imitator. Perfectly replicated the expert using only historical data, succeeding even with a poor reward signal."
+Offline CQL Agent,0.00% ± 0.00%,0.00 ± 0.00,"The Cautious Learner. Failed completely, becoming overly conservative due to the harsh +1/-1 reward signal."
+Naive Fixed Policy,~55%,~35,The Dangerous Status Quo. Proves the need for an intelligent policy.

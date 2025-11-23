@@ -1,0 +1,5 @@
+Dosing Policy,Training Paradigm,Time in Therapeutic Window (%),Mean Toxic Events per Episode
+Naive Fixed Policy,Rule-Based,55.13 ± 2.10,34.86 ± 2.10
+Offline CQL Agent,Offline Reinforcement Learning,72.65 ± 1.05,0.00 ± 0.00
+Behavior Cloning,Imitation Learning (Offline),100.00 ± 0.00,0.00 ± 0.00
+Expert PPO Agent,Online Reinforcement Learning,100.00 ± 0.00,0.00 ± 0.00
